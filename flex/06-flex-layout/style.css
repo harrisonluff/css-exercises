@@ -46,6 +46,13 @@ input {
 .content {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  margin: 0px 4px;
 }
 
 .footer {
