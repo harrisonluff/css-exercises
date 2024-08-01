@@ -15,6 +15,18 @@ img {
   justify-content: center;
 }
 
+.container {
+  display: flex;
+  justify-content: space-around;
+  gap: 52px;
+}
+
+.image-text-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
