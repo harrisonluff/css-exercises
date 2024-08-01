@@ -50,6 +50,7 @@ input {
 
 .footer {
   display: flex;
+  background-color: #eeeeee;
 }
 
 .left-links {
